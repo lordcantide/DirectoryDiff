@@ -1,0 +1,6 @@
+C:\Users\Sonny\Documents\CodeBase\DirectoryDifferential\DirectoryDifferential\bin\Debug\DirectoryDifferential.exe.config
+C:\Users\Sonny\Documents\CodeBase\DirectoryDifferential\DirectoryDifferential\bin\Debug\DirectoryDifferential.exe
+C:\Users\Sonny\Documents\CodeBase\DirectoryDifferential\DirectoryDifferential\bin\Debug\DirectoryDifferential.pdb
+C:\Users\Sonny\Documents\CodeBase\DirectoryDifferential\DirectoryDifferential\obj\Debug\DirectoryDifferential.csprojResolveAssemblyReference.cache
+C:\Users\Sonny\Documents\CodeBase\DirectoryDifferential\DirectoryDifferential\obj\Debug\DirectoryDifferential.exe
+C:\Users\Sonny\Documents\CodeBase\DirectoryDifferential\DirectoryDifferential\obj\Debug\DirectoryDifferential.pdb
